@@ -49,7 +49,6 @@ Connect with me on:
 
 - [HackerRank](https://www.hackerrank.com/profile/surajbargaje_sc1)
 - [LinkedIn](https://www.linkedin.com/in/suraj-bargaje/)
-- [WhatsApp](https://wa.me/qr/HHY2PH2USUCBG1)
 - [GitHub](https://github.com/SurajBargaje)
 
 Visit the [Portfolio](https://surajbargaje.github.io/Portfolio/) to explore more about my work and experiences.
