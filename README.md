@@ -52,4 +52,4 @@ Connect with me on:
 - [WhatsApp](https://wa.me/qr/HHY2PH2USUCBG1)
 - [GitHub](https://github.com/SurajBargaje)
 
-Visit the [https://surajbargaje.github.io/Portfolio/](#) to explore more about my work and experiences.
+Visit the [Portfolio](https://surajbargaje.github.io/Portfolio/) to explore more about my work and experiences.
